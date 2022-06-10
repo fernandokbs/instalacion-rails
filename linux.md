@@ -26,11 +26,11 @@ exec $SHELL
 
 ```
 
-Instalación ruby 3
+Instalación ruby 2
 
 ```bash
-rbenv install 3.1.2
-rbenv global 3.1.2
+rbenv install 2.6.3
+rbenv global 2.6.3
 ```
 
 Instalación bundler
@@ -42,7 +42,7 @@ gem install bundler
 Instalación rails
 
 ```bash
-gem install rails -v 7.0.2.4
+gem install rails -v 5.2.0
 ```
 
 Paso final
